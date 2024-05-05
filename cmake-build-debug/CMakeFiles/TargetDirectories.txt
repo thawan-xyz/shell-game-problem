@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/shell-game-problem/cmake-build-debug/CMakeFiles/shell_game_problem.dir
+C:/Users/Thawan/CLionProjects/shell-game-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/shell-game-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
